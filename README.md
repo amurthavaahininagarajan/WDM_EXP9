@@ -1,5 +1,7 @@
 ### EX9 Preprocessing on Twitter Data using Rapidminer
-### DATE: 
+### NAME: AMURTHA VAAHINI.KN
+### REG: 212222240008
+### DATE: 06.05.2024
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -26,5 +28,12 @@ for this purpose.
 
 
 ### Output:
+![image](https://github.com/amurthavaahininagarajan/WDM_EXP9/assets/118679102/1f6223dc-d7b6-41ea-a789-52f775625434)
+![image](https://github.com/amurthavaahininagarajan/WDM_EXP9/assets/118679102/6337fda8-1838-49ea-8c19-b4ce1cde5f87)
+![image](https://github.com/amurthavaahininagarajan/WDM_EXP9/assets/118679102/9ba8776d-fa10-4df1-98e4-d058979608df)
+![image](https://github.com/amurthavaahininagarajan/WDM_EXP9/assets/118679102/037f6fe9-d229-4936-b84a-1caf5d27cb24)
+
+### RESULT:
+Thus, the preprocessing technique on Twitter Data using Rapidminer is implemented successfully.
 
 ### Result:
